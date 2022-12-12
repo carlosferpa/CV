@@ -84,14 +84,6 @@
     background: #508991;
 }
 
-.footer .img{
-    position: relative;
-    left: 5%;
-    width: 180px;
-    height: 180px;
-    border-radius: 100%;
-    overflow: hidden;
-}
 
 .footer img{
     width: 50px;
